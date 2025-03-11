@@ -1,1 +1,6 @@
-<h1>hello world</h2>
+<h1>Hello , i am Fardin ahmed</h2>
+<hr> A full time web developer 
+ <br>
+ <br>
+ About me<br>
+ i am a passionate web developer . i am a honest person.
