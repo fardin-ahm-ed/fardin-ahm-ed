@@ -3,4 +3,4 @@
  <br>
  <br>
  About me<br>
- i am a passionate web developer . i am a honest person.
+ i am a passionate web developer .
